@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Mulish:wght@900&display=swap" rel="stylesheet">
+<title>Homepage</title>
+</head>
+<nav class="menu-container">
+    <!-- burger menu -->
+    <input type="checkbox" aria-label="Toggle menu" />
+    <span></span>
+    <span></span>
+    <span></span>
+  
+    <!-- logo -->
+    <a href="#" class="menu-logo">
+      <img src="images/logo.png" alt="Home"/>
+    </a>
+  
+    <!-- menu items -->
+    <div class="menu">
+      <ul>
+      </ul>
+      <ul>
+        <li>
+          <a href="#about">
+            About
+          </a>
+        </li>
+        <li>
+          <a href="#skills">
+            Skills/Services
+          </a>
+        </li>
+        <li>
+          <a href="#portfolio">
+            Portfolio
+          </a>
+        </li>
+        <li>
+          <a href="#contact">
+            Contact Me
+          </a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+    <body class="body">
+
+    </body>
+</html>
