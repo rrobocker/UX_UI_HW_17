@@ -1,12 +1,8 @@
-body {
-    font-family: 'Mulish', sans-serif;
-}
-
 /*Navigation Bar*/
 
 body {
     overflow-x: hidden;
-    font-family: Sans-Serif;
+    font-family: 'Mulish', sans-serif;
     margin: 0;
   }
   
